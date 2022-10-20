@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/enemy1.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/enemy2.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/enemyLaser.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/explosion.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/explosionSound.wav</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/gameOver.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/GUIFont.spritefont</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/island1.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/island2.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/island3.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/laser.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/legend.png</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/life.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/MenuFont.spritefont</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/pause.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/playerAnimation.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/playerExplosion.bmp</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/playerPlane.png</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/playerPlane1.png</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/playershotsound.wav</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/Score.spritefont</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/sky.jpg</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/themesong.mp3</File>
+    <File>C:/Users/w1828502/Documents/GitHub/ScrollingShooterNEW2/Content/titleScreen.bmp</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

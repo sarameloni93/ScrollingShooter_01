@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/enemy1.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/enemy2.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/enemyLaser.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/explosion.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/explosionSound.wav</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/gameOver.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/GUIFont.spritefont</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/island1.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/island2.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/island3.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/laser.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/legend.png</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/life.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/MenuFont.spritefont</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/pause.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/playerAnimation.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/playerExplosion.bmp</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/playerPlane.png</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/playerPlane1.png</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/playershotsound.wav</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/Score.spritefont</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/sky.jpg</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/themesong.mp3</File>
+    <File>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/titleScreen.bmp</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
