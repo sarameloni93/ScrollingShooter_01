@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/themesong.mp3</SourceFile>
+  <SourceFile>C:/Users/w1828502/Desktop/MG_Project/GitHub/ScrollingShooter/Content/themesong.mp3</SourceFile>
   <SourceTime>2022-06-19T21:37:58+01:00</SourceTime>
-  <DestFile>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/bin/Windows/Content/themesong.xnb</DestFile>
-  <DestTime>2022-10-20T17:02:26.3403973+01:00</DestTime>
+  <DestFile>C:/Users/w1828502/Desktop/MG_Project/GitHub/ScrollingShooter/Content/bin/Windows/Content/themesong.xnb</DestFile>
+  <DestTime>2022-10-20T17:33:29.9284551+01:00</DestTime>
   <Importer>Mp3Importer</Importer>
   <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
   <Processor>SongProcessor</Processor>
@@ -15,6 +15,6 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput>
-    <string>C:/Users/w1828502/Desktop/MG_Project/WorkingScrollinShooter/Content/bin/Windows/Content/themesong.wma</string>
+    <string>C:/Users/w1828502/Desktop/MG_Project/GitHub/ScrollingShooter/Content/bin/Windows/Content/themesong.wma</string>
   </BuildOutput>
 </PipelineBuildEvent>

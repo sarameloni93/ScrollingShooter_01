@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GQgHaBLrfi3GDV8Kf7TNQPejZ1vkFoaKi6K1DlNKqsNlXJsiLxzVn6HBuFbyKhwS+nItPlbavj7d/2xcy3MuzQ==",
+  "dgSpecHash": "o1p7SR2GNcoMW4yAtcVecKZBDYgFTjHoJVjQvqv7A3V86QzW+m97N5QgxFQH6gu54483N2CZMru2fO1OklvEhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w1828502\\Desktop\\MG_Project\\WorkingScrollinShooter\\ScrollingShooter.csproj",
+  "projectFilePath": "C:\\Users\\w1828502\\Desktop\\MG_Project\\GitHub\\ScrollingShooter\\ScrollingShooter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w1828502\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\w1828502\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

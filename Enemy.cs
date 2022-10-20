@@ -23,6 +23,7 @@ namespace ScrollingShooter
         float enemyMoveSpeed;
         #endregion
 
+
         public int Width
         {
             get { return enemyAnimation.frameWidth; }

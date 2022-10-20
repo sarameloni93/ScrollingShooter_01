@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w1828502\\Desktop\\MG_Project\\WorkingScrollinShooter\\ScrollingShooter.csproj": {}
+    "C:\\Users\\w1828502\\Desktop\\MG_Project\\GitHub\\ScrollingShooter\\ScrollingShooter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w1828502\\Desktop\\MG_Project\\WorkingScrollinShooter\\ScrollingShooter.csproj": {
+    "C:\\Users\\w1828502\\Desktop\\MG_Project\\GitHub\\ScrollingShooter\\ScrollingShooter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w1828502\\Desktop\\MG_Project\\WorkingScrollinShooter\\ScrollingShooter.csproj",
+        "projectUniqueName": "C:\\Users\\w1828502\\Desktop\\MG_Project\\GitHub\\ScrollingShooter\\ScrollingShooter.csproj",
         "projectName": "ScrollingShooter",
-        "projectPath": "C:\\Users\\w1828502\\Desktop\\MG_Project\\WorkingScrollinShooter\\ScrollingShooter.csproj",
+        "projectPath": "C:\\Users\\w1828502\\Desktop\\MG_Project\\GitHub\\ScrollingShooter\\ScrollingShooter.csproj",
         "packagesPath": "C:\\Users\\w1828502\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w1828502\\Desktop\\MG_Project\\WorkingScrollinShooter\\obj\\",
+        "outputPath": "C:\\Users\\w1828502\\Desktop\\MG_Project\\GitHub\\ScrollingShooter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
